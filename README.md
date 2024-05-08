@@ -19,8 +19,8 @@
 [<img src="https://skillicons.dev/icons?i=git,github,&theme=dark" />](https://github.com/lucasmoreno01)
 ---
 <p>
+ <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoreno01&layout=compact&theme=transparent" />
   <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasmoreno01&show_icons=true&theme=transparent" />
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoreno01&layout=compact&theme=transparent" />
 </p>
 
 
