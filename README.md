@@ -1,16 +1,30 @@
-### Hi there 👋
+# Oi, Eu sou o Lucas Moreno!
+🎓estudante de Sistemas de Informação - UFBA
 
-<!--
-**lucasmoreno01/lucasmoreno01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻Trainee na TITAN - Empresa Junior de Engenharia da Computação da UFBA
 
-Here are some ideas to get you started:
+> "Solucionando problemas de forma criativa!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias: 
+### Web:
+ [<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,sass,styledcomponents&theme=dark" />](https://github.com/lucasmoreno01) 
+ ---
+### Dados:  
+[<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,redis,&theme=dark" />](https://github.com/lucasmoreno01)
+---
+
+### Mobile:
+---
+### Outras:
+[<img src="https://skillicons.dev/icons?i=git,github,&theme=dark" />](https://github.com/lucasmoreno01)
+---
+<p>
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasmoreno01&show_icons=true&theme=transparent" />
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoreno01&layout=compact&theme=transparent" />
+</p>
+
+
+### Você pode me encontar tambem em:
+
+[<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />](https://www.linkedin.com/in/lucas-moreno01/) 
+  
