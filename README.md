@@ -1,8 +1,9 @@
 # Oi, Eu sou o Lucas Moreno!
 🎓Estudante de Sistemas de Informação - UFBA
-📘Estudando para desenvolvimento mobile.
 
 👨‍💻Trainee na TITAN - Empresa Junior de Engenharia da Computação da UFBA
+
+📘Estudando para desenvolvimento mobile.
 
 > "Solucionando problemas de forma criativa!"
 
