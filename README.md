@@ -12,11 +12,11 @@
  [<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,sass,styledcomponents&theme=dark" />](https://github.com/lucasmoreno01) 
  ---
 ### Dados:  
-[<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,redis,&theme=dark" />](https://github.com/lucasmoreno01)
+[<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,&theme=dark" />](https://github.com/lucasmoreno01)
 ---
 
 ### Mobile:
----
+[<img src="https://skillicons.dev/icons?i=dart,flutter,&theme=dark" />](https://github.com/lucasmoreno01)
 ### Outras:
 [<img src="https://skillicons.dev/icons?i=git,github,&theme=dark" />](https://github.com/lucasmoreno01)
 ---
