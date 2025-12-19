@@ -2,7 +2,7 @@
 
 👨‍🎓 Graduando em Sistemas de informação na UFBA 
 
-🤝 Desenvolvedor Mobile
+📱 Desenvolvedor Mobile
 
 ``` Desenvolvendo soluções de forma criativa e estou sempre atento às novidades da computação! ```
 
