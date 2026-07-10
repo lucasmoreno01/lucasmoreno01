@@ -1,8 +1,6 @@
 # Olá, eu sou o Lucas👋
 
-👨‍🎓 Graduando em Sistemas de informação na UFBA 
-
-📱 Desenvolvedor Mobile
+Desenvolvedor Fullstack e Mobile
 
 ``` Desenvolvendo soluções de forma criativa e estou sempre atento às novidades da computação! ```
 
